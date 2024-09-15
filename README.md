@@ -1,7 +1,16 @@
 # Exercise02a-UnityShipMovement
 
-hero DeMaio
+Exercise for MSCH-C220
 
-heroquest8
+A user-controlled ship for a space-shooter game. Created in Unity.
 
-:3
+## Implementation
+
+## References
+None
+
+## Future Development
+None
+
+## Created by
+hero demaio
